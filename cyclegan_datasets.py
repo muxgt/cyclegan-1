@@ -15,6 +15,6 @@ DATASET_TO_IMAGETYPE = {
 
 """The path to the output csv file."""
 PATH_TO_CSV = {
-    'horse2zebra_train': './CycleGAN_TensorFlow/input/horse2zebra/horse2zebra_train.csv',
-    'horse2zebra_test': './CycleGAN_TensorFlow/input/horse2zebra/horse2zebra_test.csv',
+    'horse2zebra_train': '/content/cyclegan-1/input/horse2zebra/train.csv',
+    'horse2zebra_test': '/content/cyclegan-1/input/horse2zebra/test.csv',
 }
